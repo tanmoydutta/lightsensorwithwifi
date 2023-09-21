@@ -36,6 +36,8 @@ I went ahead and also designed a 3D model for the housing of this module for app
 
 ![alt text](https://github.com/tanmoydutta/lightsensorwithwifi/blob/main/images/Bond_in_enclosure.png?raw=true)
 
+![alt text](https://github.com/tanmoydutta/lightsensorwithwifi/blob/main/images/SensorSlot.png?raw=true)
+
 <h2>Programming</h2>
 Add your own firmware and code to make use of the built-in sensor and indicator. This module can be programmed using Arduino or ESP-IDF IDE. This module has a 
 close resemblance with LOLIN C3 Mini or Adafruit C3 QTPy, hence those core board definitions are compatible with this module.
