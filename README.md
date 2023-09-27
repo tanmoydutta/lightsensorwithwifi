@@ -13,7 +13,7 @@ RF part of the board has been tested with a VNA (Vector Network Analyser) and ha
 Antenna traces are also designed based upon the datasheet specification and recommended trace pattern.
 
 This hardware has been certified with Open Source Hardware Association
-![alt text](https://github.com/tanmoydutta/lightsensorwithwifi/blob/main/images/certification-mark-NL000015-wide-400.png.png?raw=true)
+![alt text](https://github.com/tanmoydutta/lightsensorwithwifi/blob/main/images/certification-mark-NL000015-wide-400.png?raw=true)
 
 <h2>The Module</h2>
 End result of the PCB is a 4 layer design and manufactured with the help of JLC PCB (https://jlcpcb.com) which according to their documentation has a 
