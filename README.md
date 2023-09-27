@@ -12,6 +12,9 @@ The PCB has been designed as per the hardware design guidelines from Espressief 
 RF part of the board has been tested with a VNA (Vector Network Analyser) and has been optimized with the help of a matching Pi-network. 
 Antenna traces are also designed based upon the datasheet specification and recommended trace pattern.
 
+This hardware has been certified with Open Source Hardware Association
+![alt text](https://github.com/tanmoydutta/lightsensorwithwifi/blob/main/images/certification-mark-NL000015-wide-400.png.png?raw=true)
+
 <h2>The Module</h2>
 End result of the PCB is a 4 layer design and manufactured with the help of JLC PCB (https://jlcpcb.com) which according to their documentation has a 
 dielectric constant of 4.5 for FR-4 type material. 
