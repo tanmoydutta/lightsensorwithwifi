@@ -1,4 +1,3 @@
-# lightsensorwithwifi
 <h1>ESP32-C3 based Light sensor</h1>
 
 <h2>Description</h2>
@@ -58,4 +57,6 @@ Following a possible application diagram -
 
 ![alt text](https://github.com/tanmoydutta/lightsensorwithwifi/blob/main/images/Bond_Documentation-Application.drawio.png?raw=true)
 
+<h2>Open Source Hardware</h2>
+This board is an OSHWA approved design: <a href="https://certification.oshwa.org/nl000015.html">NL000015</a>
 ![alt text](https://github.com/tanmoydutta/lightsensorwithwifi/blob/main/images/oshw_license-2.png?raw=true)
